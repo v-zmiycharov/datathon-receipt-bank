@@ -34,3 +34,6 @@ Only consider prices with dot/comma
 
 TOP 1 Accuracy: 0.47
 TOP 2 Accuracy: 0.57
+
+### Part 3
+Add Can be sum feature: indicates wether a price can be sum of other prices
