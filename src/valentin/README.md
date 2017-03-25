@@ -37,3 +37,5 @@ TOP 2 Accuracy: 0.57
 
 ### Part 3
 Add Can be sum feature: indicates wether a price can be sum of other prices
+TOP 1 Accuracy: 0.54
+TOP 2 Accuracy: 0.6
