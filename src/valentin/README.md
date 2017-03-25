@@ -27,3 +27,10 @@ Order of occurance -> normalised (0-1) order of occurance compared to all prices
 
 TOP 1 Accuracy: 0.45
 TOP 2 Accuracy: 0.56
+
+### Part 1
+Remove features: Has dot, Has comma
+Only consider prices with dot/comma
+
+TOP 1 Accuracy: 0.47
+TOP 2 Accuracy: 0.57
