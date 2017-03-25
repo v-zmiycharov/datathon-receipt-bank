@@ -39,3 +39,8 @@ TOP 2 Accuracy: 0.57
 Add Can be sum feature: indicates wether a price can be sum of other prices
 TOP 1 Accuracy: 0.54
 TOP 2 Accuracy: 0.6
+
+### Part 4
+RandomForest: n_estimators=50
+TOP 1 Accuracy: 0.54
+TOP 2 Accuracy: 0.6
