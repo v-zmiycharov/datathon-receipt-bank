@@ -14,3 +14,16 @@ Supplier: 0.63
 Results fell down: 
 0.8866666666666667 for currencies
 0.574 for suppliers
+
+## Total amounts experiments
+
+### Part 1
+Features:
+Has dot -> indicates wether the line of the price contains dot
+Has comma -> indicates wether the line of the price contains comma
+Has total word -> indicates wether the line of the price contains 'total'
+Digits count -> the number of all the digits on the line
+Order of occurance -> normalised (0-1) order of occurance compared to all prices in the receipt
+
+TOP 1 Accuracy: 0.45
+TOP 2 Accuracy: 0.56
