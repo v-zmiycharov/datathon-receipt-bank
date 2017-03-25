@@ -1,2 +1,4 @@
 big_data/*
-!big_data/.gitkeep 
+!big_data/.gitkeep
+misc
+venv
