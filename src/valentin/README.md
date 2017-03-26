@@ -47,6 +47,6 @@ TOP 2 Accuracy: 0.6
 
 ### Part 5
 Add tf idf feature (validate on test set)
-TOP 1 Accuracy: 0.521
-TOP 2 Accuracy: 0.596
-TOP 3 Accuracy: 0.619
+TOP 1 Accuracy: 0.531
+TOP 2 Accuracy: 0.604
+TOP 3 Accuracy: 0.623
