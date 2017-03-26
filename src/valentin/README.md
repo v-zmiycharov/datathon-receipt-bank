@@ -51,15 +51,19 @@ TOP 1 Accuracy: 0.531
 TOP 2 Accuracy: 0.604
 TOP 3 Accuracy: 0.623
 
-
 ### Part 6
-
 Remove has_total feature
 TOP 1 Accuracy: 0.532
 TOP 2 Accuracy: 0.606
 TOP 3 Accuracy: 0.621
 
-Baseline:
+### Part 7
+Add value order feature:
+TOP 1 Accuracy: 0.544
+TOP 2 Accuracy: 0.607
+TOP 3 Accuracy: 0.623
+
+### Baseline:
 TOP 1 Accuracy: 0.33
 TOP 2 Accuracy: 0.414
 TOP 3 Accuracy: 0.494
